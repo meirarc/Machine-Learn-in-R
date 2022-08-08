@@ -14,7 +14,7 @@ install.packages("e1071")
 # workspace preparation
 #=================================
 
-setwd("C:/Users/rafael.cabrera/OneDrive/Documentos/PowerBI/Cap15")
+setwd("<your current path>")
 getwd()
 
 
